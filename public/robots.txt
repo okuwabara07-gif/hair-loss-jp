@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hair-loss-jp.vercel.app/sitemap.xml
